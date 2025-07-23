@@ -1,8 +1,7 @@
-# RDMA setting up on linux with 
-# I am using Ubuntu24 linux kernel=6.14 
-# SoftiWARP is a software RDMA device that attaches with the active network cards to enable RDMA programming. 
-# Soft-iWARP is a software-based iWARP stack that runs at reasonable performance levels and seamlessly fits 
-# into the OFA RDMA environment provides several benefits. 
+### RDMA setting up on linux 
+### I am using Ubuntu24 linux kernel=6.14 
+### SoftiWARP is a software RDMA device that attaches with the active network cards to enable RDMA programming. 
+### Soft-iWARP is a software-based iWARP stack that runs at reasonable performance levels and seamlessly fits into the OFA RDMA environment provides several benefits. 
 
 1. Setting up RDMA environment (lib, verbs , driver)
 $sudo apt-get install build-essential libelf-dev cmake
